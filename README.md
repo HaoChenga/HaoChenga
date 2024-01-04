@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 see there
+* 👋 Hi, i'm now a research assitant at ZheJiang university 
+* 🙋 My research interests mainly include robotics, 3D vison
 
 <!--
 **HaoChenga/HaoChenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
