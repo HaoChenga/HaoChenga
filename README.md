@@ -1,5 +1,5 @@
 ### 👋 see there
-* 👋 Hi, i'm now a research assitant at ZheJiang university 
+* 👋 Hi, i'm now a research assistant at ZheJiang university 
 * 🙋 My research interests mainly include robotics, 3D vison
 
 <!--
