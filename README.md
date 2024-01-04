@@ -1,5 +1,5 @@
 
-* 👋 Hi, i'm now a research assistant at [ZJU3DV](https://github.com/zju3dv) 
+* 👋 Hi, i'm now a research assistant at [ZJU3DV group](https://github.com/zju3dv) 
 * 🙋 My research interests mainly include robotics, 3D vison
 
 <!--
