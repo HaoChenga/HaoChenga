@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###
-<!--
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
--->
+
 <!-- <h3 align="left">🔥:</h3> -->
 
 <hr style="border: 2px solid #000000;">
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
 </div>
 
