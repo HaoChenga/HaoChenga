@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ###
 
--- <h3 align="left">🔥:</h3>
+<--! <h3 align="left">🔥:</h3> -->
 <hr style="border: 2px solid #000000;">
 
 <!--
