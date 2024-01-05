@@ -1,5 +1,5 @@
 
-* 👋 Hi, i'm currently working as a research assistant at [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html) 
+* 👋 Hi, i'm currently working as a research assistant at [zju3dv group]([https://github.com/zju3dv) 
 * 🙋 My research interests mainly include robotics, 3D vison
 
 <!--
