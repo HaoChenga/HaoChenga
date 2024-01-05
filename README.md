@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<hr style="border: 2px solid #3498db;">
+<hr style="border: 2px solid #3498db background-color: #3498db; height: 2px;">
 <div style="text-align: center;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
