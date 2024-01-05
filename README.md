@@ -25,5 +25,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact" height="220" alt="streak graph"  />
+</div>
 
 ###
