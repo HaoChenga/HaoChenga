@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="left">🔥:</h3> -->
 <hr style="border: 2px solid #000000;">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
