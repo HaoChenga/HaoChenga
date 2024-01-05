@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 <!-- <h3 align="left">🔥:</h3> 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
+    <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 -->
 
 <hr style="border: 2px solid #000000;">
 <div style="text-align: center;">
-  <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
 </div>
 
