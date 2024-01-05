@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
 </div>
 
