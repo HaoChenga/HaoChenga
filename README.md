@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 ###
 
 <!-- <h3 align="left">🔥:</h3> -->
-<hr style="border: 2px solid #000000;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr style="border: 2px solid #000000;">height="200" alt="streak graph" 
 <!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HaoChenga&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
 -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
 </div>
 
 ###
