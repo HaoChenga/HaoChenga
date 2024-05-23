@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 -->
 
 <hr style="border: 2px solid #000000;">
-
+<!--
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=HaoChenga&theme=transparent&show_icons=true&hide_rank=true&include_all_commits=true&disable_animations=true&&hide=prs,contribs&line_height=24"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haochenga&layout=compact&hide=javascript,html,SCSS,Ruby"  />
 </div>
-
+-->
 
 
 ###
