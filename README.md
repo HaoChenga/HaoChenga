@@ -1,5 +1,5 @@
 
-* 👋 Hi, I'm currently working as a research assistant and will also begin my PhD studies in September 2024 at [ZJU3DV group](https://github.com/zju3dv) 
+* 👋 Hi, I'm currently working as a research assistant and will also begin my PhD studies in the fall of 2024 at [ZJU3DV group](https://github.com/zju3dv) 
 * 🙋 My research interests mainly include robotics, 3D vision
 
 <!--
