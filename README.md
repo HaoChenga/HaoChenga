@@ -1,6 +1,6 @@
 
-* 👋 Hi, I'm currently working as a research assistant and will also begin my PhD studies in the fall of 2024 at [ZJU3DV group](https://github.com/zju3dv) 
-* 🙋 My research interests mainly include robotics, 3D vision
+* 👋 Hi, I'm currently a first-year PhD student  at [ZJU3DV group](https://github.com/zju3dv) 
+* 🙋 My research interests mainly include robotics, autonomous Driving
 
 <!--
 **HaoChenga/HaoChenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
