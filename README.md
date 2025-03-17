@@ -1,6 +1,6 @@
 
 * 👋 Hi, I'm currently a first-year PhD student  at [ZJU3DV group](https://github.com/zju3dv) 
-* 🙋 My research interests mainly include robotics, autonomous driving
+* 🙋 My research interests mainly include robotics, motion planning, autonomous driving
 
 <!--
 **HaoChenga/HaoChenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
