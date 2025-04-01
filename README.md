@@ -1,5 +1,5 @@
 
-* 👋 Hi, I'm currently a first-year PhD student  at [ZJU3DV group](https://github.com/zju3dv) 
+* 👋 Hi, I'm currently a first-year Ph.D. student  at [ZJU3DV group](https://github.com/zju3dv) 
 * 🙋 My research interests mainly include robotics, motion planning, autonomous driving
 
 <!--
